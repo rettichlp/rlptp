@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/kelp",
+        "weight": 10
+      },
+      {
+        "model": "block/foliage/kelp1",
+        "weight": 2
+      }
+    ]
+  }
+}
