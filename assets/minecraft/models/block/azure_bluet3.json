@@ -1,6 +1,6 @@
 {
-    "parent": "block/cross",
-    "textures": {
-        "cross": "block/azure_bluet3"
-    }
+  "parent": "block/cross",
+  "textures": {
+    "cross": "block/azure_bluet3"
+  }
 }

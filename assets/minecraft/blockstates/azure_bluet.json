@@ -1,9 +1,15 @@
 {
   "variants": {
     "": [
-      {"model": "minecraft:block/azure_bluet"},
-	  {"model": "minecraft:block/azure_bluet2"},
-	  {"model": "minecraft:block/azure_bluet3"}
+      {
+        "model": "minecraft:block/azure_bluet"
+      },
+      {
+        "model": "minecraft:block/azure_bluet2"
+      },
+      {
+        "model": "minecraft:block/azure_bluet3"
+      }
     ]
   }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/potted_red_tulip" }
+  "variants": {
+    "": {
+      "model": "block/potted_red_tulip"
     }
+  }
 }

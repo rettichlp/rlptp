@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/seagrass_0" }
+  "variants": {
+    "": {
+      "model": "block/seagrass_0"
     }
+  }
 }
