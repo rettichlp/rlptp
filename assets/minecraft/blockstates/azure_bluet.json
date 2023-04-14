@@ -1,15 +1,9 @@
 {
   "variants": {
     "": [
-      {
-        "model": "block/foliage/flowers/azure",
-        "weight": 10
-      },
-      {
-        "model": "block/foliage/flowers/azure1",
-        "weight": 5
-      }
+      {"model": "minecraft:block/azure_bluet"},
+	  {"model": "minecraft:block/azure_bluet2"},
+	  {"model": "minecraft:block/azure_bluet3"}
     ]
   }
 }
-			
