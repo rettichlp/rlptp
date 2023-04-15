@@ -2,14 +2,14 @@
   "variants": {
     "": [
       {
-        "model": "block/foliage/flowers/allium",
-        "weight": 10
+        "model": "minecraft:block/allium"
       },
       {
-        "model": "block/foliage/flowers/allium1",
-        "weight": 10
+        "model": "minecraft:block/allium2"
+      },
+      {
+        "model": "minecraft:block/allium3"
       }
     ]
   }
 }
-			

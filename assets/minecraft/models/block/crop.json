@@ -15,6 +15,7 @@
         15,
         16
       ],
+      "shade": false,
       "faces": {
         "west": {
           "uv": [
@@ -47,6 +48,7 @@
         15,
         16
       ],
+      "shade": false,
       "faces": {
         "west": {
           "uv": [
@@ -79,6 +81,7 @@
         15,
         4
       ],
+      "shade": false,
       "faces": {
         "north": {
           "uv": [
@@ -111,6 +114,7 @@
         15,
         12
       ],
+      "shade": false,
       "faces": {
         "north": {
           "uv": [

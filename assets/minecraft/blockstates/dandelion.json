@@ -2,14 +2,17 @@
   "variants": {
     "": [
       {
-        "model": "block/foliage/flowers/dandelion",
-        "weight": 10
+        "model": "minecraft:block/dandelion"
       },
       {
-        "model": "block/foliage/flowers/dandelion1",
-        "weight": 5
+        "model": "minecraft:block/dandelion2"
+      },
+      {
+        "model": "minecraft:block/dandelion3"
+      },
+      {
+        "model": "minecraft:block/dandelion4"
       }
     ]
   }
 }
-			

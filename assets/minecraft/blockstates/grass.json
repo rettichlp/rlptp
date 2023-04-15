@@ -2,36 +2,28 @@
   "variants": {
     "": [
       {
-        "model": "block/foliage/grass/0",
-        "weight": 40
-      },
-      {
-        "model": "block/foliage/grass/1",
-        "weight": 30
-      },
-      {
-        "model": "block/foliage/grass/2",
-        "weight": 35
-      },
-      {
-        "model": "block/foliage/grass/3",
+        "model": "block/grass",
         "weight": 20
       },
       {
-        "model": "block/foliage/grass/4",
-        "weight": 30
+        "model": "block/grass1",
+        "weight": 20
       },
       {
-        "model": "block/foliage/grass/5",
-        "weight": 3
+        "model": "block/grass2",
+        "weight": 20
       },
       {
-        "model": "block/foliage/grass/6",
-        "weight": 3
+        "model": "block/grass3",
+        "weight": 20
       },
       {
-        "model": "block/foliage/grass/low_grass",
-        "weight": 10
+        "model": "block/grass4",
+        "weight": 20
+      },
+      {
+        "model": "block/radish",
+        "weight": 1
       }
     ]
   }
