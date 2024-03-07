@@ -6,16 +6,5 @@
       "max_inclusive": 24
     },
     "description": "§7RLP Texturepack§r\n➡ §b1.20.4 §7§l- §b§lv4.0.0"
-  },
-  "overlays": {
-    "entries": [
-      {
-        "formats": {
-          "min_inclusive": 16,
-          "max_inclusive": 24
-        },
-        "directory": "gui1202"
-      }
-    ]
   }
 }
