@@ -1,6 +1,6 @@
 {
-  "parent": "./ornament",
-  "textures": {
-    "0": "./skeleton"
-  }
+	"parent": "./ornament",
+	"textures": {
+		"0": "./skeleton"
+	}
 }

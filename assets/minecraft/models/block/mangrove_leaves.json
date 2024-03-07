@@ -2,270 +2,61 @@
   "parent": "minecraft:block/block",
   "textures": {
     "all": "minecraft:block/mangrove_leaves",
-    "bushy": "minecraft:block/mangrove_leaves_bushy",
-    "bushybiome": "minecraft:block/mangrove_leaves_bushybiome",
-    "particle": "#all"
-  },
-  "elements": [
-    {
-      "from": [
-        0,
-        0,
-        0
-      ],
-      "to": [
-        16,
-        16,
-        16
-      ],
-      "faces": {
-        "down": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#all",
-          "tintindex": 0,
-          "cullface": "down"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#all",
-          "tintindex": 0,
-          "cullface": "up"
-        },
-        "north": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#all",
-          "tintindex": 0,
-          "cullface": "north"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#all",
-          "tintindex": 0,
-          "cullface": "south"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#all",
-          "tintindex": 0,
-          "cullface": "west"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#all",
-          "tintindex": 0,
-          "cullface": "east"
-        }
-      }
+	"bushy": "minecraft:block/mangrove_leaves_bushy",
+	"bushybiome": "minecraft:block/mangrove_leaves_bushybiome",
+        "particle": "#all"
     },
-    {
-      "from": [
-        8,
-        -7,
-        -7
-      ],
-      "to": [
-        8,
-        25,
-        25
-      ],
-      "shade": false,
-      "rotation": {
-        "angle": 22.5,
-        "axis": "y",
-        "origin": [
-          8,
-          8,
-          8
-        ]
-      },
-      "faces": {
-        "east": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#bushy",
-          "tintindex": 0,
-          "cullface": "east"
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "down" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "up" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "north" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "south" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "east" }
+            }
         },
-        "west": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#bushy",
-          "tintindex": 0,
-          "cullface": "west"
-        }
-      }
-    },
-    {
-      "from": [
-        -7,
-        -7,
-        8
-      ],
-      "to": [
-        25,
-        25,
-        8
-      ],
-      "shade": false,
-      "rotation": {
-        "angle": 22.5,
-        "axis": "y",
-        "origin": [
-          8,
-          8,
-          8
-        ]
-      },
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#bushy",
-          "tintindex": 0,
-          "cullface": "north"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#bushy",
-          "tintindex": 0,
-          "cullface": "south"
-        }
-      }
-    },
-    {
-      "from": [
-        8,
-        -7,
-        -7
-      ],
-      "to": [
-        8,
-        25,
-        25
-      ],
-      "shade": false,
-      "rotation": {
-        "angle": 22.5,
-        "axis": "y",
-        "origin": [
-          8,
-          8,
-          8
-        ]
-      },
-      "faces": {
-        "east": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#bushybiome",
-          "cullface": "east"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#bushybiome",
-          "cullface": "west"
-        }
-      }
-    },
-    {
-      "from": [
-        -7,
-        -7,
-        8
-      ],
-      "to": [
-        25,
-        25,
-        8
-      ],
-      "shade": false,
-      "rotation": {
-        "angle": 22.5,
-        "axis": "y",
-        "origin": [
-          8,
-          8,
-          8
-        ]
-      },
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#bushybiome",
-          "cullface": "north"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#bushybiome",
-          "cullface": "south"
-        }
-      }
-    }
-  ]
+		{
+			"from": [8, -7, -7],
+			"to": [8, 25, 25],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy", "tintindex": 0, "cullface": "east" },
+				"west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy", "tintindex": 0, "cullface": "west" }
+			}
+		},
+		{
+			"from": [-7, -7, 8],
+			"to": [25, 25, 8],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy", "tintindex": 0, "cullface": "north" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy", "tintindex": 0, "cullface": "south" }
+			}
+		},
+				{
+			"from": [8, -7, -7],
+			"to": [8, 25, 25],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bushybiome", "cullface": "east" },
+				"west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bushybiome", "cullface": "west" }
+			}
+		},
+		{
+			"from": [-7, -7, 8],
+			"to": [25, 25, 8],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#bushybiome", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#bushybiome", "cullface": "south" }
+			}
+		}
+    ]
 }

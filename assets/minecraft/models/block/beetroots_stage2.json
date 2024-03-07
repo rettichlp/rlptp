@@ -1,6 +1,6 @@
 {
-  "parent": "block/croptall",
-  "textures": {
-    "croptall": "block/beetroots_stage2"
-  }
+    "parent": "block/croptall",
+    "textures": {
+        "croptall": "block/corn_stage2"
+    }
 }
