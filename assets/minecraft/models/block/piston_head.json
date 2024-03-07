@@ -4,6 +4,6 @@
     "platform": "minecraft:block/piston_top",
     "side": "minecraft:block/piston_side",
     "unsticky": "minecraft:block/piston_top",
-    "arm": "minecraft:block/piston_arm"
+	"arm": "minecraft:block/piston_arm"
   }
 }

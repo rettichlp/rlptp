@@ -1,8 +1,8 @@
 {
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "block/granite3"
-  }
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/granite3"
+    }
 }
 
 

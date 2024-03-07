@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "": {
-      "model": "block/warped_sign"
+    "variants": {
+        "": { "model": "block/warped_sign" }
     }
-  }
 }

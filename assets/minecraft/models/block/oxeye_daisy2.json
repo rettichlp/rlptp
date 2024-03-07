@@ -1,6 +1,7 @@
 {
-  "parent": "block/cross",
-  "textures": {
-    "cross": "block/oxeye_daisy2"
-  }
+    "parent": "block/petals2",
+    "textures": {
+        "flowerbed": "block/oxeye_daisy3",
+		"stem": "block/stem"
+    }
 }

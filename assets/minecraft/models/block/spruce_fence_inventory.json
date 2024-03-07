@@ -1,7 +1,7 @@
 {
-  "parent": "block/fence_inventory",
-  "textures": {
-    "texture": "block/spruce_fence",
-    "1": "block/spruce_planks"
-  }
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "block/spruce_fence",
+		"1": "block/spruce_planks"
+    }
 }
