@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 34,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 24
+      "max_inclusive": 34
     },
-    "description": "§7RLP Texturepack§r\n➡ §b1.20.4 §7§l- §b§lv4.0.0"
+    "description": "§7RLP Texturepack§r\n➡ §b1.21 §7§l- §b§lv5.0.0"
   }
 }
