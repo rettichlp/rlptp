@@ -1,0 +1,116 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  },
+  "overrides": [
+	{
+      "predicate": {
+        "custom_model_data": 1001005
+      },
+      "model": "minecraft:item/bvb/angel_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1002005
+      },
+      "model": "minecraft:item/bvb/cactus_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1003005
+      },
+      "model": "minecraft:item/bvb/cobalt_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1004005
+      },
+      "model": "minecraft:item/bvb/coral_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1005005
+      },
+      "model": "minecraft:item/bvb/emerald_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1007005
+      },
+      "model": "minecraft:item/bvb/energy_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1008005
+      },
+      "model": "minecraft:item/bvb/fire_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1009005
+      },
+      "model": "minecraft:item/bvb/glass_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1010005
+      },
+      "model": "minecraft:item/bvb/honey_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1011005
+      },
+      "model": "minecraft:item/bvb/kyanite_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1012005
+      },
+      "model": "minecraft:item/bvb/nova_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1013005
+      },
+      "model": "minecraft:item/bvb/royal_kyanite_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1014005
+      },
+      "model": "minecraft:item/bvb/ruby_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1016005
+      },
+      "model": "minecraft:item/bvb/sculk_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1017005
+      },
+      "model": "minecraft:item/bvb/shroom_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1019005
+      },
+      "model": "minecraft:item/bvb/snow_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1020005
+      },
+      "model": "minecraft:item/bvb/soulfire_hoe"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 1022005
+      },
+      "model": "minecraft:item/bvb/spectral_hoe"
+    }
+  ]
+}
