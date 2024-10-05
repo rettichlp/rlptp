@@ -1,6 +1,6 @@
 {
     "parent": "block/fence_post",
     "textures": {
-        "texture": "block/warped_fence"
+        "texture": "block/warped_fence_log"
     }
 }
