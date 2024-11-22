@@ -1,21 +1,10 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 60,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 34
+      "max_inclusive": 60
     },
-    "description": "§7RLP Resourcepack§r\n➡ §b1.21 §7§l- §b§lv5.1.0"
-  },
-  "overlays": {
-    "entries": [
-      {
-        "formats": {
-          "min_inclusive": 16,
-          "max_inclusive": 34
-        },
-        "directory": "gui1202"
-      }
-    ]
+    "description": "§7RLP Resourcepack§r\n➡ §b1.21 §7§l- §b§lv5.2.0"
   }
 }
