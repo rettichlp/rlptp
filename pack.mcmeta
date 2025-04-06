@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 60,
+    "pack_format": 71,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 60
+      "max_inclusive": 71
     },
     "description": "§7RLP Resourcepack§r\n➡ §b1.21 §7§l- §b§lv5.2.0"
   }
