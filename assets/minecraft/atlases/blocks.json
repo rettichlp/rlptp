@@ -1,0 +1,12 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:custom/m4a1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mp5"
+        }
+    ]
+}
