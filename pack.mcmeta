@@ -1,10 +1,10 @@
 {
-  "pack": {
-    "pack_format": 63,
-    "supported_formats": {
-      "min_inclusive": 18,
-      "max_inclusive": 81
-    },
-    "description": "§7RLP Resourcepack§r\n➡ §b1.21 §7§l- §b§lv6.0.1"
-  }
+    "pack": {
+        "pack_format": 42,
+        "supported_formats": {
+            "min_inclusive": 18,
+            "max_inclusive": 81
+        },
+        "description": "§7RLP Resourcepack §d§lPK-Addon§r\n➡ §b1.21.3 §7§l- §b§lv1.0.0"
+    }
 }
