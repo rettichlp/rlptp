@@ -2,7 +2,31 @@
     "sources": [
         {
             "type": "single",
+            "resource": "minecraft:custom/baseball_bat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/flamethrower"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/glock18"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/handcuffs"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/hunting_rifle"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:custom/m4a1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/m40"
         },
         {
             "type": "single",
